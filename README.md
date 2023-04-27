@@ -56,6 +56,9 @@ Apache Spark SQL, Dataframes, dan Datasets
    </td>
  </tr>
  <tr>
+      <td><b style="font-size:25px">Penjelasan</b></td>
+ </tr>
+ <tr>
    <td colspan="2">
       <b>1. mylist dan myschema </b>
       <p >

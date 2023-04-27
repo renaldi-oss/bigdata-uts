@@ -21,35 +21,36 @@ Apache Spark SQL, Dataframes, dan Datasets
       <br>
       <hr>
       <b style="font-size:15px">1. dataframe</b>
+      <br>
       <img src="/image/01_dataframe.png">
       <br>
       <hr>
-      <b style="font-size:15px">2. dataframe mysql</b>
+      <b style="font-size:15px">2. dataframe mysql</b><br>
       <img src="/image/02_dataframe_mysql.png">
       <br>
       <hr>
-      <b style="font-size:15px">3. convert df rdd</b>
+      <b style="font-size:15px">3. convert df rdd</b><br>
       <img src="/image/03_convert_df_rdd.png">
       <br>
       <hr>
-      <b style="font-size:15px">4. datasets</b>
+      <b style="font-size:15px">4. datasets</b><br>
       <img src="/image/04_datasets.png">
       <p style='font-size:10px'>error karena tidak menunjukkan adanya collumn bernama dept_location</p>
       <br>
       <hr>
-      <b style="font-size:15px">5. convert df ds</b>
+      <b style="font-size:15px">5. convert df ds</b><br>
       <img src="/image/05_convert_df_ds.png">
       <hr>
-      <b style="font-size:15px">6. access metadata</b>
+      <b style="font-size:15px">6. access metadata</b><br>
       <img src="/image/06_access_metadata.png">
       <hr>
-      <b style="font-size:15px">7. import text</b>
+      <b style="font-size:15px">7. import text</b><br>
       <img src="/image/07_impor_txt.png">
       <hr>
-      <b style="font-size:15px">8. import json</b>
+      <b style="font-size:15px">8. import json</b><br>
       <img src="/image/08_impor_json.png">
       <hr>
-      <b style="font-size:15px">9. import csv</b>
+      <b style="font-size:15px">9. import csv</b><br>
       <img src="/image/09_impor_csv.png">
       <hr>
    </td>

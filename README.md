@@ -11,6 +11,33 @@ Apache Spark SQL, Dataframes, dan Datasets
     <td><b style="font-size:30px">Tugas pratikum</b></td>
  </tr>
  <tr>
+    <td>
+      <b style="font-size:15px">Menjalankan spark</b>
+      <img src="/image/00_spark.png">
+      <b style="font-size:15px">Hasil spark running</b>
+      <img src="/image/00_browser.png">
+      <b style="font-size:15px">1. dataframe</b>
+      <img src="/image/01_dataframe.png">
+      <b style="font-size:15px">2. dataframe mysql</b>
+      <img src="/image/02_dataframe_mysql.png">
+      <b style="font-size:15px">3. convert df rdd</b>
+      <img src="/image/03_convert_df_rdd.png">
+      <b style="font-size:15px">4. datasets</b>
+      <img src="/image/04_datasets.png">
+      <p style='font-size:10px'>error karena tidak menunjukkan adanya collumn bernama dept_location</p>
+      <b style="font-size:15px">5. convert df ds</b>
+      <img src="/image/05_convert_df_ds.png">
+      <b style="font-size:15px">6. access metadata</b>
+      <img src="/image/06_access_metadata.png">
+      <b style="font-size:15px">7. import text</b>
+      <img src="/image/07_impor_txt.png">
+      <b style="font-size:15px">8. import json</b>
+      <img src="/image/08_impor_json.png">
+      <b style="font-size:15px">9. import csv</b>
+      <img src="/image/09_impor_csv.png">
+   </td>
+ </tr>
+ <tr>
    <td colspan="2">
       <b>1. mylist dan myschema </b>
       <p >

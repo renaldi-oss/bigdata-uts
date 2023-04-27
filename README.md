@@ -13,23 +13,29 @@ Apache Spark SQL, Dataframes, dan Datasets
  <tr>
     <td>
       <b style="font-size:15px">Menjalankan spark</b>
-      <img src="/image/00_spark.png"/>
+      <img src="/image/00_spark.png">
+      <br>
       <hr>
       <b style="font-size:15px">Hasil spark running</b>
       <img src="/image/00_browser.png">
+      <br>
       <hr>
       <b style="font-size:15px">1. dataframe</b>
       <img src="/image/01_dataframe.png">
+      <br>
       <hr>
       <b style="font-size:15px">2. dataframe mysql</b>
       <img src="/image/02_dataframe_mysql.png">
+      <br>
       <hr>
       <b style="font-size:15px">3. convert df rdd</b>
       <img src="/image/03_convert_df_rdd.png">
+      <br>
       <hr>
       <b style="font-size:15px">4. datasets</b>
       <img src="/image/04_datasets.png">
       <p style='font-size:10px'>error karena tidak menunjukkan adanya collumn bernama dept_location</p>
+      <br>
       <hr>
       <b style="font-size:15px">5. convert df ds</b>
       <img src="/image/05_convert_df_ds.png">

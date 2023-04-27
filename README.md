@@ -13,7 +13,7 @@ Apache Spark SQL, Dataframes, dan Datasets
  <tr>
     <td>
       <b style="font-size:15px">Menjalankan spark</b>
-      <img src="/image/00_spark.png">
+      <img src="/image/00_spark.png"/>
       <hr>
       <b style="font-size:15px">Hasil spark running</b>
       <img src="/image/00_browser.png">
